@@ -1,0 +1,5 @@
+SECONDS=0
+IN=phase2_inputs/inputs35/input35_1.in
+OUT=outputs/output35_1.out
+python output_validator.py $IN $OUT
+echo $SECONDS "seconds have elapsed."

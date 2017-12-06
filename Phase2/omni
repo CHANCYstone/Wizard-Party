@@ -1,0 +1,69 @@
+SECONDS=0
+(set -x; python solver_sat_exp.py phase2_inputs/inputs35/input35_1.in outputs/output35_1.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs35/input35_2.in outputs/output35_2.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs35/input35_3.in outputs/output35_3.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs35/input35_6.in outputs/output35_6.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs35/input35_7.in outputs/output35_7.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs35/input35_8.in outputs/output35_8.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_0.in outputs/output50_0.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_1.in outputs/output50_1.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_2.in outputs/output50_2.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_3.in outputs/output50_3.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_4.in outputs/output50_4.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_5.in outputs/output50_5.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_6.in outputs/output50_6.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_7.in outputs/output50_7.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_8.in outputs/output50_8.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/inputs50/input50_9.in outputs/output50_9.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_60.in outputs/staff_60.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_80.in outputs/staff_80.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_100.in outputs/staff_100.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_120.in outputs/staff_120.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_140.in outputs/staff_140.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_160.in outputs/staff_160.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_180.in outputs/staff_180.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_200.in outputs/staff_200.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_220.in outputs/staff_220.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_240.in outputs/staff_240.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_260.in outputs/staff_260.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_280.in outputs/staff_280.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_300.in outputs/staff_300.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_320.in outputs/staff_320.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_340.in outputs/staff_340.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_360.in outputs/staff_360.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_380.in outputs/staff_380.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py phase2_inputs/Staff_Inputs/staff_400.in outputs/staff_400.out)
+echo $SECONDS "seconds have elapsed."

@@ -1,0 +1,5 @@
+SECONDS=0
+IN=needed/submission_4717962_input35.in 
+OUT=outputs/submission_4717962_input35.out
+python output_validator.py $IN $OUT
+echo $SECONDS "seconds have elapsed."

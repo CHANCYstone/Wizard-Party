@@ -1,0 +1,69 @@
+SECONDS=0
+(set -x; python solver_sat_exp.py needed/submission_4717962_input35.in outputs/submission_4717962_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4717155_input50.in outputs/submission_4717155_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4714953_inputs_input50.in outputs/submission_4714953_inputs_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718733_input20.in outputs/submission_4718733_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4714220_input35.in outputs/submission_4714220_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4716691_inputs_input50.in outputs/submission_4716691_inputs_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718176_input50.in outputs/submission_4718176_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4700810_input50.in outputs/submission_4700810_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4612341_inputs_input50.in outputs/submission_4612341_inputs_input50.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718714_input50.in outputs/submission_4718714_input50.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4716377_input35.in outputs/submission_4716377_input35.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4698173_input50.in outputs/submission_4698173_input50.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718561_input50.in outputs/submission_4718561_input50.out) 
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4717115_inputs_input35.in outputs/submission_4717115_inputs_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4715655_input20.in outputs/submission_4715655_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4713965_input20.in outputs/submission_4713965_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4714629_inputs_input35.in outputs/submission_4714629_inputs_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718773_input35.in outputs/submission_4718773_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4709529_input50.in outputs/submission_4709529_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4697451_inputs_input35.in outputs/submission_4697451_inputs_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4715125_input35.in outputs/submission_4715125_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4697862_input20.in outputs/submission_4697862_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4620699_input35.in outputs/submission_4620699_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4717994_input35.in outputs/submission_4717994_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718689_inputs_input20.in outputs/submission_4718689_inputs_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4710007_input20.in outputs/submission_4710007_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4715167_inputs_input35.in outputs/submission_4715167_inputs_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4714128_inputs_input20.in outputs/submission_4714128_inputs_input20.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4714689_inputs_input35.in outputs/submission_4714689_inputs_input35.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4712564_input50.in outputs/submission_4712564_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4711898_input50.in outputs/submission_4711898_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4717524_inputs_input50.in outputs/submission_4717524_inputs_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4712182_inputs_input50.in outputs/submission_4712182_inputs_input50.out)
+echo $SECONDS "seconds have elapsed."
+(set -x; python solver_sat_exp.py needed/submission_4718690_inputs_input35.in outputs/submission_4718690_inputs_input35.out)
+echo $SECONDS "seconds have elapsed."

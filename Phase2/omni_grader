@@ -1,0 +1,96 @@
+echo -e "\n20_0"
+python output_validator.py phase2_inputs/inputs20/input20_0.in outputs/output20_0.out | head -c 30
+echo -e "\n20_1"
+python output_validator.py phase2_inputs/inputs20/input20_1.in outputs/output20_1.out | head -c 30
+echo -e "\n20_2"
+python output_validator.py phase2_inputs/inputs20/input20_2.in outputs/output20_2.out | head -c 30
+echo -e "\n20_3"
+python output_validator.py phase2_inputs/inputs20/input20_3.in outputs/output20_3.out | head -c 30
+echo -e "\n20_4"
+python output_validator.py phase2_inputs/inputs20/input20_4.in outputs/output20_4.out | head -c 30
+echo -e "\n20_5"
+python output_validator.py phase2_inputs/inputs20/input20_5.in outputs/output20_5.out | head -c 30
+echo -e "\n20_6"
+python output_validator.py phase2_inputs/inputs20/input20_6.in outputs/output20_6.out | head -c 30
+echo -e "\n20_7"
+python output_validator.py phase2_inputs/inputs20/input20_7.in outputs/output20_7.out | head -c 30
+echo -e "\n20_8"
+python output_validator.py phase2_inputs/inputs20/input20_8.in outputs/output20_8.out | head -c 30
+echo -e "\n20_9"
+python output_validator.py phase2_inputs/inputs20/input20_9.in outputs/output20_9.out | head -c 30
+echo -e "\n35_0"
+python output_validator.py phase2_inputs/inputs35/input35_0.in outputs/output35_0.out | head -c 30
+echo -e "\n35_1"
+python output_validator.py phase2_inputs/inputs35/input35_1.in outputs/output35_1.out | head -c 30
+echo -e "\n35_2"
+python output_validator.py phase2_inputs/inputs35/input35_2.in outputs/output35_2.out | head -c 30
+echo -e "\n35_3"
+python output_validator.py phase2_inputs/inputs35/input35_3.in outputs/output35_3.out | head -c 30
+echo -e "\n35_4"
+python output_validator.py phase2_inputs/inputs35/input35_4.in outputs/output35_4.out | head -c 30
+echo -e "\n35_5"
+python output_validator.py phase2_inputs/inputs35/input35_5.in outputs/output35_5.out | head -c 30
+echo -e "\n35_6"
+python output_validator.py phase2_inputs/inputs35/input35_6.in outputs/output35_6.out | head -c 30
+echo -e "\n35_7"
+python output_validator.py phase2_inputs/inputs35/input35_7.in outputs/output35_7.out | head -c 30
+echo -e "\n35_8"
+python output_validator.py phase2_inputs/inputs35/input35_8.in outputs/output35_8.out | head -c 30
+echo -e "\n35_9"
+python output_validator.py phase2_inputs/inputs35/input35_9.in outputs/output35_9.out | head -c 30
+echo -e "\n50_0"
+python output_validator.py phase2_inputs/inputs50/input50_0.in outputs/output50_0.out | head -c 30
+echo -e "\n50_1"
+python output_validator.py phase2_inputs/inputs50/input50_1.in outputs/output50_1.out | head -c 30
+echo -e "\n50_2"
+python output_validator.py phase2_inputs/inputs50/input50_2.in outputs/output50_2.out | head -c 30
+echo -e "\n50_3"
+python output_validator.py phase2_inputs/inputs50/input50_3.in outputs/output50_3.out | head -c 30
+echo -e "\n50_4"
+python output_validator.py phase2_inputs/inputs50/input50_4.in outputs/output50_4.out | head -c 30
+echo -e "\n50_5"
+python output_validator.py phase2_inputs/inputs50/input50_5.in outputs/output50_5.out | head -c 30
+echo -e "\n50_6"
+python output_validator.py phase2_inputs/inputs50/input50_6.in outputs/output50_6.out | head -c 30
+echo -e "\n50_7"
+python output_validator.py phase2_inputs/inputs50/input50_7.in outputs/output50_7.out | head -c 30
+echo -e "\n50_8"
+python output_validator.py phase2_inputs/inputs50/input50_8.in outputs/output50_8.out | head -c 30
+echo -e "\n50_9"
+python output_validator.py phase2_inputs/inputs50/input50_9.in outputs/output50_9.out | head -c 30
+echo -e "\n60"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_60.in outputs/staff_60.out | head -c 30
+echo -e "\n80"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_80.in outputs/staff_80.out | head -c 30
+echo -e "\n100"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_100.in outputs/staff_100.out | head -c 30
+echo -e "\n120"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_120.in outputs/staff_120.out | head -c 30
+echo -e "\n140"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_140.in outputs/staff_140.out | head -c 30
+echo -e "\n160"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_160.in outputs/staff_160.out | head -c 30
+echo -e "\n180"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_180.in outputs/staff_180.out | head -c 30
+echo -e "\n200"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_200.in outputs/staff_200.out | head -c 30
+echo -e "\n220"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_220.in outputs/staff_220.out | head -c 30
+echo -e "\n240"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_240.in outputs/staff_240.out | head -c 30
+echo -e "\n260"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_260.in outputs/staff_260.out | head -c 30
+echo -e "\n280"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_280.in outputs/staff_280.out | head -c 30
+echo -e "\n300"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_300.in outputs/staff_300.out | head -c 30
+echo -e "\n320"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_320.in outputs/staff_320.out | head -c 30
+echo -e "\n340"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_340.in outputs/staff_340.out | head -c 30
+echo -e "\n360"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_360.in outputs/staff_360.out | head -c 30
+echo -e "\n380"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_380.in outputs/staff_380.out | head -c 30
+echo -e "\n400"
+python output_validator.py phase2_inputs/Staff_Inputs/staff_400.in outputs/staff_400.out | head -c 30
