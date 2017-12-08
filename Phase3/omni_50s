@@ -1,0 +1,28 @@
+printf "startingggggggggg?!?!?!?!?!?!??!?!?!?!\n"
+printf "\non submission_4612341_inputs_input50\n"
+python3 output_validator.py needed/submission_4612341_inputs_input50.in outputs_50s/submission_4612341_inputs_input50.out
+printf "\non submission_4698173_input50\n"
+python3 output_validator.py needed/submission_4698173_input50.in outputs_50s/submission_4698173_input50.out
+printf "\non submission_4700810_input50\n"
+python3 output_validator.py needed/submission_4700810_input50.in outputs_50s/submission_4700810_input50.out
+printf "\non submission_4711898_input50\n"
+python3 output_validator.py needed/submission_4711898_input50.in outputs_50s/submission_4711898_input50.out
+printf "\non submission_4712182_inputs_input50\n"
+python3 output_validator.py needed/submission_4712182_inputs_input50.in outputs_50s/submission_4712182_inputs_input50.out
+printf "\non submission_4712564_input50\n"
+python3 output_validator.py needed/submission_4712564_input50.in outputs_50s/submission_4712564_input50.out
+printf "\non submission_4714953_inputs_input50\n"
+python3 output_validator.py needed/submission_4714953_inputs_input50.in outputs_50s/submission_4714953_inputs_input50.out
+printf "\non submission_4716691_inputs_input50\n"
+python3 output_validator.py needed/submission_4716691_inputs_input50.in outputs_50s/submission_4716691_inputs_input50.out
+printf "\non submission_4717155_input50\n"
+python3 output_validator.py needed/submission_4717155_input50.in outputs_50s/submission_4717155_input50.out
+printf "\non submission_4717524_inputs_input50\n"
+python3 output_validator.py needed/submission_4717524_inputs_input50.in outputs_50s/submission_4717524_inputs_input50.out
+printf "\non submission_4718176_input50\n"
+python3 output_validator.py needed/submission_4718176_input50.in outputs_50s/submission_4718176_input50.out
+printf "\non submission_4718561_input50\n"
+python3 output_validator.py needed/submission_4718561_input50.in outputs_50s/submission_4718561_input50.out
+printf "\non submission_4718714_input50\n"
+python3 output_validator.py needed/submission_4718714_input50.in outputs_50s/submission_4718714_input50.out
+printf "doneeeeeeeeeeeee\n"

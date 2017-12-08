@@ -65,5 +65,3 @@ echo $SECONDS "seconds have elapsed."
 echo $SECONDS "seconds have elapsed."
 (set -x; python solver_sat_exp.py needed/submission_4712182_inputs_input50.in outputs/submission_4712182_inputs_input50.out)
 echo $SECONDS "seconds have elapsed."
-(set -x; python solver_sat_exp.py needed/submission_4718690_inputs_input35.in outputs/submission_4718690_inputs_input35.out)
-echo $SECONDS "seconds have elapsed."

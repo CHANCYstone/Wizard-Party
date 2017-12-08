@@ -1,0 +1,26 @@
+printf "startingggggggggg?!?!?!?!?!?!??!?!?!?!\n"
+printf "\non submission_4717962_input35\n"
+python3 output_validator.py needed/submission_4717962_input35.in outputs_35s/submission_4717962_input35.out
+printf "\non submission_4714220_input35\n"
+python3 output_validator.py needed/submission_4714220_input35.in outputs_35s/submission_4714220_input35.out
+printf "\non submission_4716377_input35\n"
+python3 output_validator.py needed/submission_4716377_input35.in outputs_35s/submission_4716377_input35.out
+printf "\non submission_4717115_inputs_input35\n"
+python3 output_validator.py needed/submission_4717115_inputs_input35.in outputs_35s/submission_4717115_inputs_input35.out
+printf "\non submission_4714629_inputs_input35\n"
+python3 output_validator.py needed/submission_4714629_inputs_input35.in outputs_35s/submission_4714629_inputs_input35.out
+printf "\non submission_4718773_input35\n"
+python3 output_validator.py needed/submission_4718773_input35.in outputs_35s/submission_4718773_input35.out
+printf "\non submission_4697451_inputs_input35\n"
+python3 output_validator.py needed/submission_4697451_inputs_input35.in outputs_35s/submission_4697451_inputs_input35.out
+printf "\non submission_4715125_input35\n"
+python3 output_validator.py needed/submission_4715125_input35.in outputs_35s/submission_4715125_input35.out
+printf "\non submission_4620699_input35\n"
+python3 output_validator.py needed/submission_4620699_input35.in outputs_35s/submission_4620699_input35.out
+printf "\non submission_4717994_input35\n"
+python3 output_validator.py needed/submission_4717994_input35.in outputs_35s/submission_4717994_input35.out
+printf "\non submission_4715167_inputs_input35\n"
+python3 output_validator.py needed/submission_4715167_inputs_input35.in outputs_35s/submission_4715167_inputs_input35.out
+printf "\non submission_4714689_inputs_input35\n"
+python3 output_validator.py needed/submission_4714689_inputs_input35.in outputs_35s/submission_4714689_inputs_input35.out
+printf "doneeeeeeeeeeeee\n"

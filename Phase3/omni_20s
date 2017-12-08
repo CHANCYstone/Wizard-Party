@@ -1,0 +1,16 @@
+printf "startingggggggggg?!?!?!?!?!?!??!?!?!?!\n"
+printf "\non submission_4715655_input20\n"
+python3 output_validator.py needed/submission_4715655_input20.in outputs_20s/submission_4715655_input20.out
+printf "\non submission_4713965_input20\n"
+python3 output_validator.py needed/submission_4713965_input20.in outputs_20s/submission_4713965_input20.out
+printf "\non submission_4697862_input20\n"
+python3 output_validator.py needed/submission_4697862_input20.in outputs_20s/submission_4697862_input20.out
+printf "\non submission_4718689_inputs_input20\n"
+python3 output_validator.py needed/submission_4718689_inputs_input20.in outputs_20s/submission_4718689_inputs_input20.out
+printf "\non submission_4710007_input20\n"
+python3 output_validator.py needed/submission_4710007_input20.in outputs_20s/submission_4710007_input20.out
+printf "\non submission_4714128_inputs_input20\n"
+python3 output_validator.py needed/submission_4714128_inputs_input20.in outputs_20s/submission_4714128_inputs_input20.out
+printf "\non submission_4718733_input20\n"
+python3 output_validator.py needed/submission_4718733_input20.in outputs_20s/submission_4718733_input20.out
+printf "doneeeeeeeeeeeee\n"

@@ -132,7 +132,7 @@ def processInput(input_file, output_file):
 	# print "yesReversed: "
 	# print yesReversed
 	# print "noReversed ok: "
-	# print noReversed
+	print noReversed
 	wizardsSoFar = set()
 	graph = {}
 	for ordering in noReversed:
@@ -150,11 +150,11 @@ def processInput(input_file, output_file):
 		if c not in graph:
 			graph[c] = set([])
 			wizardsSoFar.add(c)
-	print "graph:"
-	print graph
+	# print "graph:"
+	# print graph
 	sort = kahn_topsort(graph)
-	print "sort:"
-	print sort
+	# print "sort:"
+	# print sort
 	# copyOfYesReversed = deepcopy(yesReversed)
 	notInYet = []
 	for order in yesReversed:
@@ -169,14 +169,14 @@ def processInput(input_file, output_file):
 		x, y, z = tup[0], tup[1], tup[2]
 		if (tup[2], tup[1], tup[0]) not in shortNotInYet:
 			shortNotInYet.append((tup[0], tup[1], tup[2]))
-	print "shortNotInYet:"
-	print shortNotInYet
+	# print "shortNotInYet:"
+	# print shortNotInYet
 	rcount = 0
 	for perm in shortNotInYet:
-		print "perm: ", perm
+		# print "perm: ", perm
 		a, b, c = perm[0], perm[1], perm[2]
 		if a in sort and b in sort and c not in sort:
-			print "1"
+			# print "1"
 			if sort.index(a) < sort.index(b):
 				graph[b].add(c)
 				graph[c] = set([])
@@ -184,14 +184,14 @@ def processInput(input_file, output_file):
 			elif sort.index(a) > sort.index(b):
 				graph[c].add(b)
 				wizardsSoFar.add(c)
-			print graph
+			# print graph
 			rcount += 1
-			print a, b, c
+			# print a, b, c
 			shortNotInYet.remove(perm)
-			print shortNotInYet
+			# print shortNotInYet
 			# notInYet.remove((c, b, a))
 		elif b in sort and c in sort and a not in sort:
-			print "2"
+			# print "2"
 			if sort.index(b) < sort.index(c):
 				graph[a].add(b)
 				wizardsSoFar.add(a)
@@ -199,14 +199,14 @@ def processInput(input_file, output_file):
 				graph[b].add(a)
 				graph[a] = set([])
 				wizardsSoFar.add(a)
-			print graph
+			# print graph
 			rcount += 1
-			print a, b, c
+			# print a, b, c
 			shortNotInYet.remove(perm)
-			print shortNotInYet
+			# print shortNotInYet
 			# notInYet.remove((c, b, a))
 		elif a in sort and c in sort and b not in sort:
-			print "3"
+			# print "3"
 			if sort.index(a) < sort.index(c):
 				graph[a].add(b)
 				graph[b] = set([c])
@@ -215,17 +215,17 @@ def processInput(input_file, output_file):
 				graph[c].add(b)
 				graph[b] = set([a])
 				wizardsSoFar.add(b)
-			print graph
+			# print graph
 			rcount += 1
-			print a, b, c
+			# print a, b, c
 			shortNotInYet.remove(perm)
-			print shortNotInYet
+			# print shortNotInYet
 			# notInYet.remove((c, b, a))
-	print "new graph:"
-	print graph
-	print "rcount is: ", rcount
-	print "new notinyet"
-	print shortNotInYet
+	# print "new graph:"
+	# print graph
+	# print "rcount is: ", rcount
+	# print "new notinyet"
+	# print shortNotInYet
 
 		# if x in sort and y in sort and z in sort:
 			# if sort.index(x) < sort.index(y) < sort.index(z):

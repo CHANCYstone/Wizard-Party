@@ -9,7 +9,11 @@ def main(argv):
     constraints_satisfied, num_constraints, constraints_failed = processInput(argv[0], argv[1])
     if constraints_satisfied == num_constraints:
         print("THIS ONE IS PERFECT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")
-    print("You satisfied {}/{} constraints. List of failed constraints: {}".format(constraints_satisfied, num_constraints, constraints_failed))
+    print("You satisfied {}/{} constraints.".format(constraints_satisfied, num_constraints))
+    # print("You satisfied {}/{} constraints. List of failed constraints: {}".format(constraints_satisfied, num_constraints, constraints_failed))
+    # print(constraints_satisfied)
+    # print(num_constraints)
+    print("Percentage passed:", constraints_satisfied / num_constraints * 1.000000000)
 
 def processInput(input_file, output_file):
     fin = open(input_file, "r")
